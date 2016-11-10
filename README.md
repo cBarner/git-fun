@@ -22,3 +22,12 @@ rm      Remove (Delete) filename
 rmdir	Delete an existing directory provided it is empty.
 tail	Prints last few lines in a file.
 touch	Update access and modification time of a file.
+
+
+git add REABME.md   	//initializes the changes
+git commit -m “message of what was changed”   //msg of what was changed
+
+git log 	 // shows all changes
+
+(copy the first 7 digits of commit number)
+git checkout (paste those digits)     // data is now recovered
