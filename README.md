@@ -14,3 +14,4 @@ cd fun-with-git                               //accessing the folder i have as g
 git add REABME.md                             //initializes the changes
 git status                                    //checks status
 git commit -m “message of what was changed”   //msg of what was changed
+git push                                      //#final command, pushes changes to github
