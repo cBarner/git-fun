@@ -31,3 +31,5 @@ git log 	 // shows all changes
 
 (copy the first 7 digits of commit number)
 git checkout (paste those digits)     // data is now recovered
+
+//"test update..."
